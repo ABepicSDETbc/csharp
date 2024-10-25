@@ -9,7 +9,7 @@ namespace SdetBootcampDay1.Examples
         [Test]
         public void GivenANewCalculator_WhenIAdd2and2_thenTheTotalIs4()
         {
-            // Given - Arrange
+            // Given - Arrange + an updated message
             var calculator = new Calculator();
 
             // When - Act
